@@ -1,10 +1,4 @@
-# 📌  Prediction of Disease Outbreaks 🚀  
-
-![GitHub repo size](https://img.shields.io/github/repo-size/shiva-yadav-ds/Prediction-of-Disease-Outbreaks?color=blue&style=flat-square)  
-![GitHub stars](https://img.shields.io/github/stars/shiva-yadav-ds/Prediction-of-Disease-Outbreaks?style=social)  
-![GitHub forks](https://img.shields.io/github/forks/shiva-yadav-ds/Prediction-of-Disease-Outbreaks?style=social)
-
----
+# 📌  Detectiion of Diseases 🚀  
 
 ## 📊 Overview  
 An AI-powered **Disease Prediction App** that assesses risk for **Heart Disease, Diabetes, and Parkinson’s Disease** using machine learning models.  
@@ -22,11 +16,6 @@ An AI-powered **Disease Prediction App** that assesses risk for **Heart Disease,
 
 ---
 
-## 🔗 Live Demo  
-🌍 **Try it now:** [Disease Prediction App](https://clinical-ai-diagnostic-suite.streamlit.app/)  
-
----
-
 ## 🛠️ Tech Stack  
 - 🐍 **Python** (NumPy, Pandas, Scikit-Learn, TensorFlow)  
 - 🎨 **Streamlit UI**  
@@ -37,9 +26,8 @@ An AI-powered **Disease Prediction App** that assesses risk for **Heart Disease,
 
 ## 📥 Installation  
 
-### 1️⃣ Clone the Repository  
-```sh
-git clone https://github.com/shiva-yadav-ds/disease-prediction.git
+### 1️⃣ Clone the Repositor
+git clone https://github.com/REM723/Detection-of-Diseases.git
 ```
 
 ### 2️⃣ Navigate to the Project Directory
@@ -84,44 +72,3 @@ streamlit run app.py
 - **Medical advice**  
 
 ---
-
-## 📂 Project Structure  
-```
-disease-prediction/
-├── data/                   # Training datasets
-├── model/                  # Pretrained ML models
-├── screenshots/            # Application visuals
-├── venv/                   # Virtual environment
-├── app.py                  # Main application
-├── requirements.txt        # Dependencies
-└── README.md               # Project documentation
-```
-
----
-
-## 📸 Screenshots  
-### 🏠 Home Page  
-![image](https://github.com/user-attachments/assets/120cc3ee-aed6-47d8-94b7-3bcbe847c007)
-
-
-### 📊 Disease Prediction Page  
-![image](https://github.com/user-attachments/assets/1358ba74-a81e-4135-94e8-fac004baa50b)
-  
-
----
-
-## 🤝 Contributing  
-Contributions are welcome! Please follow these steps:  
-1. **Fork the repository**  
-2. **Create your feature branch** (`git checkout -b feature/AmazingFeature`)  
-3. **Commit your changes** (`git commit -m 'Add some AmazingFeature'`)  
-4. **Push to the branch** (`git push origin feature/AmazingFeature`)  
-5. **Open a Pull Request**  
-
----
-
-## 📄 License  
-This project is open-source and available under the MIT License. Simply replace `[https://clinical-ai-diagnostic-suite.streamlit.app/]` and the placeholder image paths with your actual repository URL and image locations. This README provides a clear guide on setting up the app, running it, and how others can contribute.
-
-# Detection-of-Diseases
-# Detection-of-Diseases

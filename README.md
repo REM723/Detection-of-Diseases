@@ -27,12 +27,14 @@ An AI-powered **Disease Prediction App** that assesses risk for **Heart Disease,
 ## 📥 Installation  
 
 ### 1️⃣ Clone the Repositor
+
+```sh
 git clone https://github.com/REM723/Detection-of-Diseases.git
 ```
 
 ### 2️⃣ Navigate to the Project Directory
 ```sh
-cd disease-prediction
+cd Detection-of-Diseases
 ```
 
 ### 3️⃣ Create a Virtual Environment (Optional but Recommended)
